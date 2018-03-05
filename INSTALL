@@ -1,9 +1,9 @@
-Building Funcoin
+Building curiuscoin
 
-See doc/readme-qt.rst for instructions on building Funcoin-Qt,
+See doc/readme-qt.rst for instructions on building curiuscoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Funcoin.
+implementation of curiuscoin.
 
-See doc/build-*.txt for instructions on building funcoind,
+See doc/build-*.txt for instructions on building curiuscoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Funcoin.
+implementation of curiuscoin.
